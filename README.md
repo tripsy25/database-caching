@@ -12,3 +12,6 @@ npm start
 #Http Caching
 npm start
 <img width="1591" height="843" alt="image" src="https://github.com/user-attachments/assets/41a26015-c46f-4f66-b0e9-a77a2d9fed13" />
+#im memory cache
+<img width="1216" height="149" alt="image" src="https://github.com/user-attachments/assets/964705cf-0b22-4824-8737-45e60c5f3faa" />
+
